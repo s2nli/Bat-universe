@@ -1,0 +1,26 @@
+[
+    {
+        "platform": "telegram",
+        "url": "https://t.me/batuuniverse",
+        "sort_order": 1,
+        "updated_at": "2026-09-30T11:15:51.111886+00:00"
+    },
+    {
+        "platform": "youtube",
+        "url": "https://youtube.com/@dipaktoonz?si=4KzjP9et8VDW81Mr",
+        "sort_order": 2,
+        "updated_at": "2026-09-30T11:15:51.111886+00:00"
+    },
+    {
+        "platform": "whatsapp",
+        "url": "https://whatsapp.com/channel/0029VbCcme6GOj9g7TMjRq44",
+        "sort_order": 3,
+        "updated_at": "2026-09-30T11:15:51.111886+00:00"
+    },
+    {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/batuni027?stkn=ZnEydWZ3ZnFhZnZj",
+        "sort_order": 4,
+        "updated_at": "2026-09-30T11:15:51.111886+00:00"
+    }
+]
